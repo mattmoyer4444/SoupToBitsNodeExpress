@@ -331,6 +331,11 @@
         }
       }
     },
+    "redis": {
+      "version": "0.12.1",
+      "from": "redis@*",
+      "resolved": "https://registry.npmjs.org/redis/-/redis-0.12.1.tgz"
+    },
     "serve-favicon": {
       "version": "2.2.0",
       "from": "serve-favicon@>=2.2.0 <2.3.0",
